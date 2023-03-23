@@ -2,8 +2,10 @@
 
 [![Author](https://img.shields.io/badge/author-NahianAlindo-red)](https://github.com/NahianAlindo/)
 [![Author](https://img.shields.io/badge/author-utshabkg-red)](https://github.com/utshabkg/)
-
 [![Stars](https://img.shields.io/github/stars/NahianAlindo/gait_recognition?style=social)](https://github.com/NahianAlindo/gait_recognition/stargazers)
+
+
+<p align="justify">Gait recognition is one of the most successful biometric recognition technologies. Earlier studies have employed inertial sensors to capture gait dynamics for individual identification. Still, the overall performance of gait recognition is improvable. In this work, we have suggested a new deep neural network architecture named FCN-BiLSTM. The architecture concatenates the extracted features of a Bidirectional LSTM Network with the extracted features provided by a Fully Convolutional Network that uses Squeeze-and-Excitation blocks to provide a better feature map. That map is then input to a softmax classifier. We assessed our model on multiple benchmark datasets, particularly the OU-ISIR and whuGAIT datasets. The suggested architecture surpasses the existing state-of-the-art methods on the OU-ISIR dataset, Dataset #1, and #3 of the whuGAIT datasets. The performance was equivalent on Dataset #2 and Dataset #4 of the whuGAIT Datasets. Therefore, we believe the proposed architecture can be employed for biometric systems benefitting humans.</p>
 
 Datasets:
 - Dataset #1: 
