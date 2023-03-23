@@ -39,3 +39,16 @@ Datasets:
 </table>
 
 Thank you. Please let us know, if you find any mistake or way of development in this repository. Cheers!
+
+### Read our [Published Journal Research Paper](https://www.sciencedirect.com/science/article/pii/S2352914821002872) based on this repository. Cite if this helps your work:
+```
+    @article{rifaat2022accurate,
+    title={Accurate gait recognition with inertial sensors using a new FCN-BiLSTM architecture},
+    author={Rifaat, Nahian and Ghosh, Utshab Kumar and Sayeed, Abu},
+    journal={Computers and Electrical Engineering},
+    volume={104},
+    pages={108428},
+    year={2022},
+    publisher={Elsevier}
+    }
+```
